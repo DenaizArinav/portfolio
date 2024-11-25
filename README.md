@@ -6,7 +6,7 @@
 
 <ul>
   <li><b>Deep Learning using TensorFlow</b>
-    - <a href="https://github.com/joshmadakor1/Algorithms-Practice">Dog-Breed Predictor</a>
+    - <a href="https://github.com/DenaizArinav/Dog-Breed-Predictor">Dog-Breed Predictor</a>
   </li>
   <li><b>Supervised Learning - Classification Model</b>
     - <a href="https://github.com/DenaizArinav/Heart-Classification">Heart Disease Classification</a>
