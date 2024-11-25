@@ -1,4 +1,5 @@
-<h1>Hi, I'm Zidane Virani <br/><a href="https://denaizarinav.github.io/portfolio/">Machine Learning</a>, <a href="www.linkedin.com/in/zidane-virani-11a8712a5"></a></h1>
+<h1>Hi, I'm Zidane Virani <br/><a href="https://denaizarinav.github.io/portfolio/">Machine Learning</a>, <a href="www.linkedin.com/in/zidane-virani-11a8712a5"></a>
+<a "https://denaizarinav.github.io/portfolio/"><Software Development></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
