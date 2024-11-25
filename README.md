@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zidane Virani <br/><a href="https://denaizarinav.github.io/portfolio/">Machine Learning</a>, <a href="www.linkedin.com/in/zidane-virani-11a8712a5"></a>/h1>
+<h1>Hi, I'm Zidane Virani <br/><a href="https://denaizarinav.github.io/portfolio/">Machine Learning</a>, <a href="www.linkedin.com/in/zidane-virani-11a8712a5"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -11,8 +11,5 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Zidane VIani | LinkedIn" width="22px" src="www.linkedin.com/in/zidane-virani-11a8712a5" />][linkedin]
-
 
 [linkedin]: www.linkedin.com/in/zidane-virani-11a8712a5
